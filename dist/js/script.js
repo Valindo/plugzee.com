@@ -19,7 +19,7 @@ $(document).ready(function(){
 
 		$.ajax({
 			type: "post",
-			url: "http://www.plugzee.com/dist/php/insert.php",
+			url: "/dist/php/insert.php",
 			data: dataString,
 			success: function() {
 				$('#registrationForm').hide();
