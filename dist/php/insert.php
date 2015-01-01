@@ -28,4 +28,6 @@
 
 	$conn->close();
 
+	header( "Location: http://plugzee.com/" );		//not sure if this line is needed. If not, remove.
+
 ?>
