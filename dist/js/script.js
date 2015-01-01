@@ -17,8 +17,6 @@ $(document).ready(function(){
 
 		var dataString = "name=" + name + "&email=" + email;
 
-		alert (dataString);return false; 	//uncomment to display the data that will be sent to the php script on button click
-
 		$.ajax({
 			type: "post",
 			url: "http://www.plugzee.com/dist/php/insert.php",
