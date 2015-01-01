@@ -156,7 +156,7 @@
 	padding: 8px 50px;
 }
 
-.btn-stay-updated-pos{
+#submitButton{
 	margin-top: 470px;
 	margin-left: 540px;
 	padding: 8px 50px;
