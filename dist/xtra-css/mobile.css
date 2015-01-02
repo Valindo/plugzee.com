@@ -89,16 +89,18 @@
 .stripe{
 	z-index: 1040;
 }
+.position-icons-section-3 {
+	margin-top:100px;
+	margin-left:150px
+}
+
+.div_icons {
+	margin-left:10px
+}
 
 .icons {
-	display: inline;
-	margin-top:50px;
+	margin-top:10px;
 }
-
-.col-md-2 {
-	display: inline;
-}
-
 
 .section-31-heading{
 	font-size: 50px;
@@ -172,8 +174,8 @@
 }
 
 .btn-stay-updated-pos{
-	margin-top: 50px;
-	margin-left: 450px;
+	margin-top: 30px;
+	margin-left: 350px;
 	padding: 8px 50px;
 }
 
@@ -182,7 +184,7 @@
 }
 
 .stay-updated-header{
-	padding-left: 450px;
+	/*padding-left: 100px;*/
 }
 
 .contact-email-location{

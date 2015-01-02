@@ -84,6 +84,15 @@
 .stripe{
 	z-index: 1040;
 }
+.position-icons-section-3 {
+	margin-top:100px;
+	margin-left:150px
+}
+
+.div_icons {
+	margin-top:0px;
+	margin-left:100px
+}
 
 .icons {
 	margin-top:500px;
