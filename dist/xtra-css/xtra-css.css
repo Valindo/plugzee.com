@@ -3,7 +3,7 @@
 }
 
 .icons-size{
-	padding-left: 50px;
+	padding-left: 25px;
 	font-size: 15px;
 }
 
@@ -85,17 +85,15 @@
 	z-index: 1040;
 }
 .position-icons-section-3 {
-	margin-top:100px;
-	margin-left:150px
+	margin-left:150px;
 }
 
-.div_icons {
-	margin-top:0px;
-	margin-left:100px
+.row {
+	margin-top:80px;
 }
 
-.icons {
-	margin-top:500px;
+.row p {
+	color: #303030;
 }
 
 .section-31-heading{
